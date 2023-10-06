@@ -26,7 +26,7 @@
 
 
 
-<span style="font-size: 36px;">捐款</span>
+<span style="font-size: 76px;">捐款</span>
 
 如果觉得这个软件对你有所帮助，欢迎请作者喝咖啡、喝可乐～
 
