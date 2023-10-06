@@ -31,6 +31,8 @@
 
 如果觉得这个软件对你有所帮助，欢迎请作者喝咖啡、喝可乐～
 
+联系作者：13523568010@163.com
+
 
 ![mmexport1696587343829_副本](https://github.com/xingxing2233/xingxingyukeji/assets/26740174/42119c68-9aa7-4e97-931d-9836369ccf80)
 
